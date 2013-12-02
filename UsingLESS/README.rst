@@ -23,8 +23,7 @@ Step 3. Have Fun!
 ::
 
  With this minimal amount of work, you now have access to everything from variables 
- to mix-ins. Be   sure to watch the four minute video tutorial above for full examples, 
- but here are a few quickies.
+ to mix-ins.
  
  /* 
  Variables! 
