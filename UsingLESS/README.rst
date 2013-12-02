@@ -12,7 +12,9 @@ Step 2. Import a Stylesheet
 ::
 
  <link rel="stylesheet/less" href="style.less" />  
- Note that we�ve set the rel attribute to �stylesheet/less,� and that our actual stylesheets has an  extension of .less, not .css. Also, we must link to this stylesheet before Less.js.
+ Note that we've set the rel attribute to "stylesheet/less," and that our actual 
+ stylesheets has an  extension of .less, not .css. Also, we must link to this 
+ stylesheet before Less.js.
 
 
 Step 3. Have Fun!
@@ -20,9 +22,10 @@ Step 3. Have Fun!
 
 ::
 
- With this minimal amount of work, you now have access to everything from variables to mix-ins. Be   sure to watch the four minute video tutorial above for full examples, but here are a few quickies.
- view plaincopy to clipboardprint?
-
+ With this minimal amount of work, you now have access to everything from variables 
+ to mix-ins. Be   sure to watch the four minute video tutorial above for full examples, 
+ but here are a few quickies.
+ 
  /* 
  Variables! 
  */  
