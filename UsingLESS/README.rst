@@ -23,7 +23,7 @@ Step 3. Have Fun!
 ::
 
  With this minimal amount of work, you now have access to everything from variables 
- to mix-ins.
+ to mix-ins. Below is a sample less file used by LESS.JS
  
  /* 
  Variables! 
